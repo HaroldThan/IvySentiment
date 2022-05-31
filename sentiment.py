@@ -1,6 +1,5 @@
 ### EXTRACT TWEETS FROM JSON DATA AND AGGREGATE EACH SCHOOL TO ITS OWN TEXT FILE
 ### HAROLD THAN '23, DARTMOUTH COLLEGE
-
 import json
 
 schoolNames= ['brown', 'columbia', 'cornell','dartmouth','harvard','penn','princeton','yale']
