@@ -1,0 +1,1258 @@
+Renting off-campus as a grad
+
+have any pre-frosh heard back from the pre-orientation programs yet?
+
+Same question for FOP I haven’t gotten an email yet.
+
+Hi everyone! I was having some troubles in the spring and ended up submitting the (college) financial aid application about 3 weeks after the deadline, and now also turned out they had some troubles with my IDOC submission so I had to resubmit today. Anyone has any experience with submitting late finaid app, when might I get the aid decision? What happens if it comes after the school year starts?
+
+Unsafe neighbourhoods in Boston or around Harvard?
+
+Is it legal to carry pepper spray in Boston?
+
+The people you need to look out for are drunk college kids trying to start fights as they walk home from bars. Not that there aren't any creepers--I've been followed and a friend of mine was followed once and the guy waited outside, trying to look into her windows. In MA, unfortunately, they make it hard to buy pepper spray. You have to go to a gun shop to get it. You are allowed to carry Swiss Army knives and folding knives in Boston as long as you're not out there threatening people.
+
+Personally, I've had enough scary encounters with strange men that I wouldn't want to run alone at night in any city. But, I walked back from campus in the middle of night many times without running into any problems before I was followed that one time.
+
+idk i’ve been to the campus before so i was just trying to help 💀
+
+Is it legal to carry pepper spray in Boston?
+
+idk i’ve been to the campus before so i was just trying to help 💀
+
+idk i’ve been to the campus before so i was just trying to help 💀
+
+Pets in Harvard Housing?
+
+I will be moving in to HUH’s Terry Terrace and bringing my car (this is unfortunately necessary for my personal situation). I am looking at purchasing a Harvard tenant decal that would place me in the 10 Everett Street garage. I was wondering what the parking situation there is like? Does the garage typically fill up/is it hard to find spots? Are there certain times of day or of the year that I should be concerned about? Anything else I should be aware of? 
+
+Hi all! I’m an international student going to join Harvard Law School in the upcoming fall.
+
+GSAS Housing assignment
+
+So we should get an email by the 6th or from the 6th to 10th?
+
+I was told “by the week of June 6” in an email.
+
+So we should get an email by the 6th or from the 6th to 10th?
+
+Question about Harvard Summer School 2022
+
+I plan on taking Intensive Introduction to Computer Science Using Java(CSCI S-111) this summer and was wondering what the difficulty level is for this course? It's an 8-credit course and I've heard some not so fond information on 8-credit classes. It also starts at 8:30 which is just great. In addition, is there anything I should look out for going to the session? FYI, I'm going on-campus.
+
+Why would that be relevant for a summer school class?
+
+So relax. This is not a Harvard student trying to look down upon you.
+
+I have yet to see an **actual** Harvard student on here claim that since Harvard is regarded by many as the best university in the world, it is some paragon of academic rigor. In fact, I've seem claims that the academics at Harvard are similar to many other US universities.
+
+Do you go to Harvard?
+
+So relax. This is not a Harvard student trying to look down upon you.
+
+I have yet to see an **actual** Harvard student on here claim that since Harvard is regarded by many as the best university in the world, it is some paragon of academic rigor. In fact, I've seem claims that the academics at Harvard are similar to many other US universities.
+
+Why would that be relevant for a summer school class?
+
+So relax. This is not a Harvard student trying to look down upon you.
+
+I have yet to see an **actual** Harvard student on here claim that since Harvard is regarded by many as the best university in the world, it is some paragon of academic rigor. In fact, I've seem claims that the academics at Harvard are similar to many other US universities.
+
+So relax. This is not a Harvard student trying to look down upon you.
+
+I have yet to see an **actual** Harvard student on here claim that since Harvard is regarded by many as the best university in the world, it is some paragon of academic rigor. In fact, I've seem claims that the academics at Harvard are similar to many other US universities.
+
+I have yet to see an **actual** Harvard student on here claim that since Harvard is regarded by many as the best university in the world, it is some paragon of academic rigor. In fact, I've seem claims that the academics at Harvard are similar to many other US universities.
+
+So relax. This is not a Harvard student trying to look down upon you.
+
+I have yet to see an **actual** Harvard student on here claim that since Harvard is regarded by many as the best university in the world, it is some paragon of academic rigor. In fact, I've seem claims that the academics at Harvard are similar to many other US universities.
+
+Living/working at HMS this summer, need to park my car
+
+I am an HMS intern this summer. I live in Greater Boston and need my car to be able to go home more easily (for reasons). Any long term/monthly, reasonably priced parking options in Longwood? $300/mo is steep :(
+
+[deleted]
+
+[deleted]
+
+I’m not eligible for HMS parking
+
+Oof idk if this is possible I’m sorry. There’s no parking anywhere
+
+[deleted]
+
+[deleted]
+
+CS124  is like half of 6.006 (no sorting and data structures in CS124) and two-thirds of 6.046 (no cache-oblivious or distributed algorithm). CS120 roughly covers about the first half of 6.006, largely what CS124 skipped for.
+
+While I think most prep work can be done with 6.006 (under the assumption you will put crazy hour on CS222.. ), what 6.006 does not sufficiently discuss is the use of randomized algorithm. 6.006 is mostly deterministic. You should read separately into them. (quicksort, randomized selection, randomized vertex cover,  Karger's randomized minimum cut, Simulated Annealing for general solution search, etc.)
+
+I never took CS222, but took CS124 and just had a look at the syllabus of 222. The only way I see this possible is if you do some intense prep study yourself this summer.
+
+\- If during your learning of MIT 6.006 you found your math background is not good enough, watch MIT 6.042J from MIT OCW. This covers the required math such as writing proofs, counting and probability.
+
+Math background is probably more relevant here. What’s your math background?
+
+I was in the same boat with 20 (got an A) and struggled a lot with 121. I haven’t taken 124 but from what I’ve heard it’s worse. I don’t think I’d recommend 222 unless you had a super strong math background.
+
+What’s your background otherwise?
+
+CS124  is like half of 6.006 (no sorting and data structures in CS124) and two-thirds of 6.046 (no cache-oblivious or distributed algorithm). CS120 roughly covers about the first half of 6.006, largely what CS124 skipped for.
+
+While I think most prep work can be done with 6.006 (under the assumption you will put crazy hour on CS222.. ), what 6.006 does not sufficiently discuss is the use of randomized algorithm. 6.006 is mostly deterministic. You should read separately into them. (quicksort, randomized selection, randomized vertex cover,  Karger's randomized minimum cut, Simulated Annealing for general solution search, etc.)
+
+Math background is probably more relevant here. What’s your math background?
+
+I was in the same boat with 20 (got an A) and struggled a lot with 121. I haven’t taken 124 but from what I’ve heard it’s worse. I don’t think I’d recommend 222 unless you had a super strong math background.
+
+CS124  is like half of 6.006 (no sorting and data structures in CS124) and two-thirds of 6.046 (no cache-oblivious or distributed algorithm). CS120 roughly covers about the first half of 6.006, largely what CS124 skipped for.
+
+While I think most prep work can be done with 6.006 (under the assumption you will put crazy hour on CS222.. ), what 6.006 does not sufficiently discuss is the use of randomized algorithm. 6.006 is mostly deterministic. You should read separately into them. (quicksort, randomized selection, randomized vertex cover,  Karger's randomized minimum cut, Simulated Annealing for general solution search, etc.)
+
+I was in the same boat with 20 (got an A) and struggled a lot with 121. I haven’t taken 124 but from what I’ve heard it’s worse. I don’t think I’d recommend 222 unless you had a super strong math background.
+
+Math background is probably more relevant here. What’s your math background?
+
+I was in the same boat with 20 (got an A) and struggled a lot with 121. I haven’t taken 124 but from what I’ve heard it’s worse. I don’t think I’d recommend 222 unless you had a super strong math background.
+
+I was in the same boat with 20 (got an A) and struggled a lot with 121. I haven’t taken 124 but from what I’ve heard it’s worse. I don’t think I’d recommend 222 unless you had a super strong math background.
+
+What laptop do you have?
+
+Planning to major in CS or physics btw
+
+Alienware x17 R2, an i7 with an rtx 3070 ti if it matters
+
+That's great! I had to ask though. If you had the choice between Stanford or Harvard for CS what would you pick?
+
+For me, location mattered to me and my family and since I live in MA, Harvard would be the first choice in almost every scenario (unless I had applied and was admitted to MIT). 
+
+What prompted you to choose CS @ Harvard?
+
+That's great! I had to ask though. If you had the choice between Stanford or Harvard for CS what would you pick?
+
+For me, location mattered to me and my family and since I live in MA, Harvard would be the first choice in almost every scenario (unless I had applied and was admitted to MIT). 
+
+For me, location mattered to me and my family and since I live in MA, Harvard would be the first choice in almost every scenario (unless I had applied and was admitted to MIT). 
+
+That's great! I had to ask though. If you had the choice between Stanford or Harvard for CS what would you pick?
+
+For me, location mattered to me and my family and since I live in MA, Harvard would be the first choice in almost every scenario (unless I had applied and was admitted to MIT). 
+
+Cambridge Community College?
+
+Doing a “Harvard” build for a server set architecturally in the 1910s so eventually I’m gonna get around to all the houses but currently this is the start of it
+
+Harvard in quotes because it won’t actually be called Harvard
+
+What's the 1/3 mean? And yep, anyone can join, but we have to carefully select ppl who aren't Harvard affiliated, since our focus as a Harvard org is on the student community.
+
+sorry for the confusion, I don’t know what it means either. It was probably pasted by accident from my clipboard. I’m an incoming freshman..how can I apply?
+
+Cambridge Community College?
+
+What's the 1/3 mean? And yep, anyone can join, but we have to carefully select ppl who aren't Harvard affiliated, since our focus as a Harvard org is on the student community.
+
+sorry for the confusion, I don’t know what it means either. It was probably pasted by accident from my clipboard. I’m an incoming freshman..how can I apply?
+
+sorry for the confusion, I don’t know what it means either. It was probably pasted by accident from my clipboard. I’m an incoming freshman..how can I apply?
+
+What's the 1/3 mean? And yep, anyone can join, but we have to carefully select ppl who aren't Harvard affiliated, since our focus as a Harvard org is on the student community.
+
+sorry for the confusion, I don’t know what it means either. It was probably pasted by accident from my clipboard. I’m an incoming freshman..how can I apply?
+
+would this be a pretty easy fall semester for me to ease in? or would it be too easy and i can replace stat 104 with cs 50 or something
+
+I would suggest taking CS50 instead, but otherwise that frosh schedule is typical. If you try on the placement test, you’ll be taking Expos 20.
+
+why? is it rlly bad?
+
+worst class of all time, i’m still scarred
+
+i was thinking of possibly stats minor so which introductory stat class should i take instead thenv
+
+for the econ major it also says i need to take stats 100, 101, 102, or 104 tho. which one should i take? i thought maybe that would be good background for stat 110
+
+Regardless of the solution, stat 104 is not a good background for 110. Stat 104 is the worst class I’ve taken hands down. The current course head is not the reason for it, however he’s been thrust into a really crappy class. It’s probably the lowest rated class Harvards had, and the staff turnover is extremely high for a reason.
+
+ohhhh i didn’t see that af my b. okok bet i’ll maybe just take then
+
+do you guys thinking stat 100 would be good prep for stat 110 or i can j take stat 110 without much knowledge
+
+i was thinking possibly cs minor
+
+Still do CS50
+
+Yea still do CS50… as someone who might minor in CS, I took it spring semester freshman year and felt behind…wish I would have taken it during the fall
+
+Do cs50 instead of stat 104 if your thinking of doing CS as a major
+
+yeah i’m j starting to plan j in case so i know what i want to register for when the time comes
+
+What resources are you using to plan?
+
+i’m j using a google doc lol i’m j searching ul the course catalog and checking what i want to take first semester
+
+you can replace stat 104 with me 😳😳😳
+
+worst class of all time, i’m still scarred
+
+i was thinking of possibly stats minor so which introductory stat class should i take instead thenv
+
+for the econ major it also says i need to take stats 100, 101, 102, or 104 tho. which one should i take? i thought maybe that would be good background for stat 110
+
+Regardless of the solution, stat 104 is not a good background for 110. Stat 104 is the worst class I’ve taken hands down. The current course head is not the reason for it, however he’s been thrust into a really crappy class. It’s probably the lowest rated class Harvards had, and the staff turnover is extremely high for a reason.
+
+ohhhh i didn’t see that af my b. okok bet i’ll maybe just take then
+
+do you guys thinking stat 100 would be good prep for stat 110 or i can j take stat 110 without much knowledge
+
+why? is it rlly bad?
+
+Still do CS50
+
+Yea still do CS50… as someone who might minor in CS, I took it spring semester freshman year and felt behind…wish I would have taken it during the fall
+
+i was thinking possibly cs minor
+
+What resources are you using to plan?
+
+i’m j using a google doc lol i’m j searching ul the course catalog and checking what i want to take first semester
+
+yeah i’m j starting to plan j in case so i know what i want to register for when the time comes
+
+i was thinking of possibly stats minor so which introductory stat class should i take instead thenv
+
+for the econ major it also says i need to take stats 100, 101, 102, or 104 tho. which one should i take? i thought maybe that would be good background for stat 110
+
+Regardless of the solution, stat 104 is not a good background for 110. Stat 104 is the worst class I’ve taken hands down. The current course head is not the reason for it, however he’s been thrust into a really crappy class. It’s probably the lowest rated class Harvards had, and the staff turnover is extremely high for a reason.
+
+ohhhh i didn’t see that af my b. okok bet i’ll maybe just take then
+
+do you guys thinking stat 100 would be good prep for stat 110 or i can j take stat 110 without much knowledge
+
+worst class of all time, i’m still scarred
+
+Still do CS50
+
+Yea still do CS50… as someone who might minor in CS, I took it spring semester freshman year and felt behind…wish I would have taken it during the fall
+
+i’m j using a google doc lol i’m j searching ul the course catalog and checking what i want to take first semester
+
+What resources are you using to plan?
+
+for the econ major it also says i need to take stats 100, 101, 102, or 104 tho. which one should i take? i thought maybe that would be good background for stat 110
+
+Regardless of the solution, stat 104 is not a good background for 110. Stat 104 is the worst class I’ve taken hands down. The current course head is not the reason for it, however he’s been thrust into a really crappy class. It’s probably the lowest rated class Harvards had, and the staff turnover is extremely high for a reason.
+
+ohhhh i didn’t see that af my b. okok bet i’ll maybe just take then
+
+do you guys thinking stat 100 would be good prep for stat 110 or i can j take stat 110 without much knowledge
+
+i was thinking of possibly stats minor so which introductory stat class should i take instead thenv
+
+i’m j using a google doc lol i’m j searching ul the course catalog and checking what i want to take first semester
+
+for the econ major it also says i need to take stats 100, 101, 102, or 104 tho. which one should i take? i thought maybe that would be good background for stat 110
+
+Regardless of the solution, stat 104 is not a good background for 110. Stat 104 is the worst class I’ve taken hands down. The current course head is not the reason for it, however he’s been thrust into a really crappy class. It’s probably the lowest rated class Harvards had, and the staff turnover is extremely high for a reason.
+
+ohhhh i didn’t see that af my b. okok bet i’ll maybe just take then
+
+do you guys thinking stat 100 would be good prep for stat 110 or i can j take stat 110 without much knowledge
+
+Regardless of the solution, stat 104 is not a good background for 110. Stat 104 is the worst class I’ve taken hands down. The current course head is not the reason for it, however he’s been thrust into a really crappy class. It’s probably the lowest rated class Harvards had, and the staff turnover is extremely high for a reason.
+
+ohhhh i didn’t see that af my b. okok bet i’ll maybe just take then
+
+do you guys thinking stat 100 would be good prep for stat 110 or i can j take stat 110 without much knowledge
+
+for the econ major it also says i need to take stats 100, 101, 102, or 104 tho. which one should i take? i thought maybe that would be good background for stat 110
+
+Regardless of the solution, stat 104 is not a good background for 110. Stat 104 is the worst class I’ve taken hands down. The current course head is not the reason for it, however he’s been thrust into a really crappy class. It’s probably the lowest rated class Harvards had, and the staff turnover is extremely high for a reason.
+
+ohhhh i didn’t see that af my b. okok bet i’ll maybe just take then
+
+do you guys thinking stat 100 would be good prep for stat 110 or i can j take stat 110 without much knowledge
+
+do you guys thinking stat 100 would be good prep for stat 110 or i can j take stat 110 without much knowledge
+
+ohhhh i didn’t see that af my b. okok bet i’ll maybe just take then
+
+do you guys thinking stat 100 would be good prep for stat 110 or i can j take stat 110 without much knowledge
+
+do you guys thinking stat 100 would be good prep for stat 110 or i can j take stat 110 without much knowledge
+
+Hi everyone, I am an incoming grad student. Does anyone have experience living in the Longwood medical area (off-campus)?
+
+Hello everyone! I'm an incoming masters student at Harvard Medical School and had to open up a bank account.
+
+What bank should I choose? I'm an international student, but I have US citizenship and a SSN.
+
+I got Harvard Employees Credit Union first but did not really like it (somewhat complicated system for international transfers). Then I got Bank of America and it has been good so far.
+
+Bank of America has a decent amount of ATMs and branches in the area. Depending on your needs and age, they waive account fees on simple savings accounts for full time students under the age of 25. Me prefrosh daughter just signed up for one.
+
+I plan to major in Comp Sci, and perhaps do an ms after graduating. Is 3 years possible through advanced standing, or would u strictly recommend against doing something like this? Thanks!
+
+&#x200B;
+
+\*I do have a decent amount of AP credit which may help? (i think like 24+)
+
+>I do have a decent amount of AP credit which may help? (i think like 24+)
+
+Assuming that you got off the WL and will be attending Harvard, you have zero AP credit. Harvard stopped awarding credit a while ago, and advanced standing required 32 credits anyway.
+
+Other than a means if fulfilling the foreign language requirement, the only benefit of AP scores is the ability to bypass some courses.
+
+Anyway, can you graduate in less than 4 years? Yeah, but it's not easy. 
+
+I would say taking 5 courses is pretty uncommon, especially multiple semesters in a row. Some might take 5 one semester due to scheduling, but most typically only take 4. If you really want to continually take 5 courses, you should talk to your advisor first and figure out a plan.
+
+AFAIK the class of 2023 was the last class to be able to do advanced standing. I also don't think 24 credits is enough (I think it was 32 credits). Maybe if you took 5 classes a semester or did summer school you could graduate in 3.5 years? I'm not sure how that works though.
+
+💀
+
+It's possible to graduate in 3 years if u've already done ur first year and didn't fail too many of ur courses.
+
+EDIT: removed an errant period that shouldn't've been there
+
+I would say taking 5 courses is pretty uncommon, especially multiple semesters in a row. Some might take 5 one semester due to scheduling, but most typically only take 4. If you really want to continually take 5 courses, you should talk to your advisor first and figure out a plan.
+
+💀
+
+I would say taking 5 courses is pretty uncommon, especially multiple semesters in a row. Some might take 5 one semester due to scheduling, but most typically only take 4. If you really want to continually take 5 courses, you should talk to your advisor first and figure out a plan.
+
+Hey, I'm an incoming freshman. Where's the best place within walking distance of Harvard Yard to buy toiletries and other necessities? Is there a Target or Walmart within a mile of campus? Or is it just better to take a bus somewhere?
+
+Prime membership saves you a lot with the mark up of everything directly nearby. Target is in central square but sucks since it's super small and the good ones are further away. For groceries, I use the delis and markets or take my scooter to whole foods a couple of blocks away. I started doing prime/uber grocery runs though cause it was way more convenient with promo codes. CVS is a last resort since it's one of the worst with markups.
+
+These are only for students or alumni that wants to be found. I know quite a few students and alumni who opted out (Which is done easily) of the online directories for identity security concerns.
+
+Student health plan and financial aid questions
+
+I'm on full financial aid, I get free blue cross blue shield coverage (MA but its covered me in Florida) for the year. The only optional plan I have to pay for is the dental coverage at $400 a year. If you go on leave though later on you will have to pay for your own plan or switch off it.
+
+Hey. I got accepted into multiple UCs but heard from Harvard last. 
+
+What are the chances of being offered student housing for a Grad if you got admitted for next semester? I will be attending but my budget is low rn.
+
+Looking at my courseload for next year as an am econ + cs major
+
+Math 21a
+
+<not sure if I need a foreign language>
+
+How does that schedule work for my freshmen fall semester? If it’s too hard or unreasonable or stupid pls lmk I’m kind of confused
+
+Okay thanks! And do I need a foreign language as a part of some requirement?
+
+Okay thanks! And do I need a foreign language as a part of some requirement?
+
+If you will not have placed out as the result of AP exam score or placement test, then you will need to take at some point, since there is a FL requirement.
+
+So the last math I took is calc bc in my senior year. Does that still mean I can do 22a?
+
+I would second this tbh. I didn’t love how 21 was taught and felt like stat 110 gave me the good pure math skills you would get taking 21 instead of 22
+
+Yes, assuming you get a 5 on calc bc or pass the placement test, you are perfectly ready to do 22A.
+
+Wait but if I’m trying to do Applied Math econ and CS wouldn’t the 21 series be a better idea?
+
+Wait what does that mean? I’m sorry I don’t know the lingo haha
+
+Typical frosh schedule, but will be somewhat PSet heavy (especially on Fridays when 10a, CS50, and one of the three 21a are due)
+
+try it and if u don’t like it switch
+
+Like another commenter said, if you're decent at math, don't take the 21 series. Try 22A or if you're up for it, even try 25A.
+
+If you're up for a math challenge (but don't necessarily have extensive background with proof-based math), I would suggest Math 25a. Taking Math 25 was a transformative experience for me back when I was undergrad, leading to my becoming a math concentrator and ultimately a mathematician.
+
+Okay thanks! And do I need a foreign language as a part of some requirement?
+
+If you will not have placed out as the result of AP exam score or placement test, then you will need to take at some point, since there is a FL requirement.
+
+Okay thanks! And do I need a foreign language as a part of some requirement?
+
+Yes, assuming you get a 5 on calc bc or pass the placement test, you are perfectly ready to do 22A.
+
+Wait but if I’m trying to do Applied Math econ and CS wouldn’t the 21 series be a better idea?
+
+So the last math I took is calc bc in my senior year. Does that still mean I can do 22a?
+
+I would second this tbh. I didn’t love how 21 was taught and felt like stat 110 gave me the good pure math skills you would get taking 21 instead of 22
+
+Wait what does that mean? I’m sorry I don’t know the lingo haha
+
+If you will not have placed out as the result of AP exam score or placement test, then you will need to take at some point, since there is a FL requirement.
+
+Wait but if I’m trying to do Applied Math econ and CS wouldn’t the 21 series be a better idea?
+
+Yes, assuming you get a 5 on calc bc or pass the placement test, you are perfectly ready to do 22A.
+
+Wait but if I’m trying to do Applied Math econ and CS wouldn’t the 21 series be a better idea?
+
+Wait but if I’m trying to do Applied Math econ and CS wouldn’t the 21 series be a better idea?
+
+Wait but if I’m trying to do Applied Math econ and CS wouldn’t the 21 series be a better idea?
+
+there is a harvard housing thing off campus for grad/med students. I've seen it on some of the info for med students ([https://www.huhousing.harvard.edu/](https://www.huhousing.harvard.edu/)) but idk if they would advertise on facebook
+
+Difficulty of humanities classes for a transfer student?
+
+I'm transferring this fall. How difficult are humanities classes generally? I will be a junior so presumably I will be taking upper level courses. Are classes generally exam or paper based, or a combination of things? 
+
+not hard, just a bunch of writing. All the humanities classes I’ve had are solely essay/project based. You should be fine! Congrats on transferring :))
+
+Based
+
+[deleted]
+
+Based
+
+Based
+
+So I’m kind of stressed because my viewing time for apartments was June 2nd. They emailed me this morning saying that they no longer have apartments to be viewed. I applied to dorms on campus, and this is really my first option. I just don’t feel like I have a back up plan anymore just in case that doesn’t work out. Needless to say that my masters program starts June 2nd. I’m committing to a school across the country and starting a program with NO PLACE to live. I feel like this could and should have been determined earlier. Now I have to look for off campus housing as a back up. Anyone frustrated and looking for a roommate too?? I’m an HGSE student.
+
+>Now I have to look for off campus housing for a backup
+
+[deleted]
+
+I was in the same boat but have been checking the “currently available” list on HUH periodically for the past few days and today I got lucky enough to log on at just the right time when one was available and snapped it up! Keep checking back and hopefully you’ll find one, too. I didn’t check at set times or anything - just randomly throughout the day whenever I thought about it between other tasks.
+
+4 years masters option?
+
+And is it possible to do a AB and masters in different fields? E.g. AB physics, SM applied math?
+
+Hi! Just did the program. Most people now do it with a concurrent masters program, which just means you need 4 extra courses. (I took 5 each semester in Soph & Junior year) You definitely can do different fields.
+
+I‘m a rising junior with a GPA of like 3.688 right now, I got a couple lower grades this semester which made me anxious. Especially because I‘m an international first-gen student I have no idea how seriously I should take my GPA, I don’t want to work myself to death so I‘m struggling to find the balance between working hard but not going crazy. I have solid extracurriculars and a good internship this summer so I guess I‘m not totally ruined. I‘m just scared because I know classes probably won‘t get any easier at this point. I‘m thinking of applying to business schools probably a few years after graduating college.
+
+I had below a 3.5 GPA and I still got into a top PhD program in my field. Know the same for others for law and medical schools too. Don’t worry :-)
+
+> I‘m thinking of applying to business schools probably a few years after graduating college.
+
+I had below a 3.5 GPA and I still got into a top PhD program in my field. Know the same for others for law and medical schools too. Don’t worry :-)
+
+COVID isolation during senior week
+
+I just tested positive, so I have to isolate until Sunday.  Does anyone know if they'll make me move out on Friday, still, or if I can stay longer?
+
+And will they still provide food or do I just have to break isolation to eat?
+
+They should still keep you on campus. I unfortunately had it during finals week and they gave me an extra two days on campus after my isolation period was over since my last isolation day was the 15th and they give me a move out day of the 17th
+
+Why would you test before your graduation? You wanted to miss your graduation?
+
+Ok-Kaleidoscope-7320 that first year out of high school is hard, so I'm just going to ignore the above as it's not like you've had Life Sciences 1A yet. Look forward to seeing you around but consider that maybe you don't have it all figured out just yet and are missing some variables in your equations.
+
+Kinda dumb of you to test right before graduation
+
+Dude fuck you, both my parents are immunocompromised of course I’m still going to test before they come for my graduation
+
+They should still keep you on campus. I unfortunately had it during finals week and they gave me an extra two days on campus after my isolation period was over since my last isolation day was the 15th and they give me a move out day of the 17th
+
+Ok-Kaleidoscope-7320 that first year out of high school is hard, so I'm just going to ignore the above as it's not like you've had Life Sciences 1A yet. Look forward to seeing you around but consider that maybe you don't have it all figured out just yet and are missing some variables in your equations.
+
+Dude fuck you, both my parents are immunocompromised of course I’m still going to test before they come for my graduation
+
+Ok-Kaleidoscope-7320 that first year out of high school is hard, so I'm just going to ignore the above as it's not like you've had Life Sciences 1A yet. Look forward to seeing you around but consider that maybe you don't have it all figured out just yet and are missing some variables in your equations.
+
+Ok-Kaleidoscope-7320 that first year out of high school is hard, so I'm just going to ignore the above as it's not like you've had Life Sciences 1A yet. Look forward to seeing you around but consider that maybe you don't have it all figured out just yet and are missing some variables in your equations.
+
+Getting an apartment with Harvard Housing
+
+Oops I’m wrong, I knew the view and select times had been given out thought the selections had already happened. Not sure what the odds are but maybe ask around and see what days and times other people got to see how many people may be before you. I just checked and have june 2 at 8AM
+
+Oh no 😭
+
+Before now I was like, " June 2 is fine, I will fine somewhere close to HMS to live", 🙄🙈
+
+Same! I'd applied for the GSAS housing option as well and guess what I'm 25th on the waiting list like wth where are we gonna live 😭 😅
+
+gosh darn how did you get into harvard medical school??? pls help me
+
+Oops I’m wrong, I knew the view and select times had been given out thought the selections had already happened. Not sure what the odds are but maybe ask around and see what days and times other people got to see how many people may be before you. I just checked and have june 2 at 8AM
+
+Oh no 😭
+
+Before now I was like, " June 2 is fine, I will fine somewhere close to HMS to live", 🙄🙈
+
+Oops I’m wrong, I knew the view and select times had been given out thought the selections had already happened. Not sure what the odds are but maybe ask around and see what days and times other people got to see how many people may be before you. I just checked and have june 2 at 8AM
+
+What were your 5 favorite classes and why?
+
+What were your 5 favorite classes and why?
+
+Follow Up: Is there any method to how the canvas site web page numbers work? I'd like to browse through previous versions of different classes during the coronavirus when they were all recorded.
+
+I graduated a while ago, but Science and Cooking was fun. I don't remember the number of it and idk if it's still a thing.
+
+How would you describe the work load?
+
+How would you describe the work load?
+
+Why would it matter?
+
+When are QReports for Spring 2022 classes released?
+
+I'm just curious about this.
+
+Are tourists allowed in Harvard Yard right now?
+
+I have strolled through Harvard yard without issue at night. Probably as late as 11pm.
+
+Of course since this is Harvard, the information is decentralized and disorganized.
+
+https://alumni.harvard.edu/college/seniors/commencement says the only ticketed events are Class Day afternoon (Wednesday May 25th, though the Old Yard is open without a ticket), and Commencement Morning (Thursday May 26th).
+
+https://commencement.harvard.edu/ticket-information talks about tickets for May 26th and May 29th (postponed graduation for 2020 and 2021). It says nothing about Class Day tickets.
+
+Commencement is this week so between tomorrow Tuesday 24th and Thursday 26th, you won’t be allowed. You need tickets to attend (probably there are some events where you don’t need tickets but I believe they are later at night)
+
+The gates at the main houses often lock for safety reasons. Students swipe in with their IDs.
+
+Thanks so much man! I’m gonna screenshot this for later so that I can put it together when I’m on campus:)
+
+Of course since this is Harvard, the information is decentralized and disorganized.
+
+https://alumni.harvard.edu/college/seniors/commencement says the only ticketed events are Class Day afternoon (Wednesday May 25th, though the Old Yard is open without a ticket), and Commencement Morning (Thursday May 26th).
+
+https://commencement.harvard.edu/ticket-information talks about tickets for May 26th and May 29th (postponed graduation for 2020 and 2021). It says nothing about Class Day tickets.
+
+The gates at the main houses often lock for safety reasons. Students swipe in with their IDs.
+
+Thanks so much man! I’m gonna screenshot this for later so that I can put it together when I’m on campus:)
+
+The gates at the main houses often lock for safety reasons. Students swipe in with their IDs.
+
+Thanks so much man! I’m gonna screenshot this for later so that I can put it together when I’m on campus:)
+
+Thanks so much man! I’m gonna screenshot this for later so that I can put it together when I’m on campus:)
+
+any reasoning at all behind saying that?
+
+any reasoning at all behind saying that?
+
+questions about life/academics at Harvard
+
+I don't have too long to decide so I figured id come on here to ask a few questions. just to help with answers I'm currently committed to another school with a great business school for finance. at Harvard id primarily do Econ but id love to also do global affairs or something of the sort. as of right now Im interested in IB/consulting but I mean who knows in four years that might change.
+
+questions:
+
+I feel like I always hear about grade inflation at Harvard and I'm curious what its actually like. obviously I'm guessing it's difficult to do well in the classes there but do curves help a lot or something?
+
+what is the atmosphere on campus like? above all I want a school that is collaborative among its classmates. does it becomes especially cutthroat between Econ majors who all want to be placed in big 3 consulting or the major IB?
+
+I have friends that did Ec alongside a ton of CS and Applied Math courses and I have friends that basically majored in Gov with the bare minimum Ec courses.
+
+You're not going to find an accurate percentage on Reddit and it's hard to find the exact and accurate numbers (unless you do the research yourself and actively attempt to hunt down each graduating senior's postgrad plans). However, I do believe saying that "most" reach that level would be an exaggeration. No matter what university you go to, getting into those kind of companies after undergrad is difficult and it's probably a low percentage. That said, we're at Harvard, and I would assume compared to other colleges and universities, that we're up there with having one of the highest percentages.
+
+Mendoza is a pre professional program. Harvard is a liberal arts college, even if its Econ program is hearty. Both are just a different approach to education. Both will land you a job afterwards but HOW do you want to be educated? 
+
+Career: yeah most do. I had 5 friends who were into consulting. Three are at McKinsey, one at Bain, and the other realized that his true love is CS. Probably a biased sample, but it still illustrates something. In general, Harvard career service is great & the name will almost always get you a first-round interview. Your task is to take that interview into an offer.
+
+Social scene: since Harvard doesn't have greek life, most parties I went to are low-key hangout kind of vibe. Some friends having a beer over a game of beer pong or mario kart, for example.
+
+I have friends that did Ec alongside a ton of CS and Applied Math courses and I have friends that basically majored in Gov with the bare minimum Ec courses.
+
+Taking in-person courses at Harvard?
+
+There's something called the Harvard Summer School, but the registration deadline may or may not have passed. What classes would you be interested in? What would be the reason for wanting to take classes at Harvard?
+
+Do the students from the College usually wear any tassels/etc. around the neck? I see this happening a lot with other undergrad institutions but now that I’m packing to come to graduation next week I’m realizing I don’t have anything of the sort. Just want to make sure I’m not missing something (the tassels do seem very fun to wear but a quick Google search is not yielding much on this topic).
+
+[deleted]
+
+Ok, thanks both! This is helpful, I’ll just show up with cap and gown then :)
+
+At Harvard I know you get stoles at the affinity ceremonies led by student organizations with administrative support. Other unsupported orgs may give them out as well (maybe like a sports team or ROTC) but since I'm not an undergrad I'm not sure what those orgs may be.
+
+Ok, thanks both! This is helpful, I’ll just show up with cap and gown then :)
+
+[deleted]
+
+Ok, thanks both! This is helpful, I’ll just show up with cap and gown then :)
+
+What are some good hackathons CS majors should look into for the summer?
+
+How are you even supposed to get involved in this?
+
+Perhaps start by going to the dean of students office?
+
+How about working with whoever runs the blocking system to fix their janky cs50 web dev website? Look to things you can build at harvard so ppl can actually use it
+
+Perhaps start by going to the dean of students office?
+
+How are you even supposed to get involved in this?
+
+Perhaps start by going to the dean of students office?
+
+I took CS20 last semester, and while I felt like the couse taught some useful practices in approaxhing proofs and mathematical notation, I think the material (namely the problems) in the class were a bit to basic / simple to improve my mathematical skills such that I would be fully comfortable taking a class like CS121. In other words, while the course taught a breadth of material, it didn't really go in depth that much and harder problems were often brushed over and rushed through. Therefore, I would like to prepare for 121 over the summer by doing more math problems to improve my mathematical thinking and maturity. What are some good resources to improve mathematical maturity, so I'm better prepared for CS 121 (amd 124)?
+
+If doing pre orientation this year, can we move to the freshman dorms directly? or there is some temporary housing for pre orientation program and then move to the formal dorm after pre is done and during the regular move in days? If it is the later, where can I store my move in stuff during pre?? A bit unclear.
+
+it says on the page that move in day will be the day prior to pre-orientation
+
+Move in day for those going to pre-orientation is August 19th
+
+ Was talking to my brother at Yale the other day and he told me that a lot of celeb kids go there. Is it really true that children/relatives of A-list celebrities/TV personalities etc are currently at Ivies/T10s but current students are supposed to be lowkey about them?
+
+Under a pseudonym
+
+Maybe not anymore but Xi Jingpings daughter was/is a student and maybe around Massachusetts
+
+This was a while ago, but a girl in my entryway was the daughter of a US Representative.  I had no idea.  I had a friend who was the daughter of a very famous head of a media corporation; I had no idea until much later.  I had a friend who was the daughter of some very famous political author (I think); I also had no idea until much later.  On the other hand, I met some International Math Olympiad gold medalists, and HOLY SHIT, MAN.  I definitely got an autograph from one of them at prefrosh weekend.  Later, when I actually attended, we were casual acquaintances (say hi in the dining hall sort of thing).  OH, AND ON MY PHYSICS FINAL FRESHMAN YEAR I GOT THE SAME SCORE AS ANOTHER IMO GOLD MEDALIST and this will be my claim to fame forever.
+
+Under a pseudonym
+
+Commencement class day dinner dress code?
+
+Wondering if there's a dress code for the class day dinner commencement activity.
+
+how can you exercise privately?👀
+
+What time is the gym usually empty/empty-ish
+
+Do you know if there are people around 5.30 am?
+
+I'm going to be a first year so I guess that means I don't have access to any house gyms :/?
+
+Do you know if there are people around 5.30 am?
+
+I'm going to be a first year so I guess that means I don't have access to any house gyms :/?
+
+What was your favorite extracurricular at Harvard?
+
+Can be anything. From internship to sports to job. :)
+
+MIT frat parties
+
+Rowing
+
+I looked into this before and apparently Cs 107 isn’t even going to be offered until 2023 spring* U can check out Cs 171 though
+
+When is the schedule of 2022 classes released?
+
+They get deactivated. Every email sent makes it clear our cards are programmed to comply with move out if you're not a senior.
+
+If you're enrolled your HarvardKey will work for the libraries for intersessions between terms and summer term. I've heard of some libraries allowing access over them but not borrowing but think that's specific to them. If you aren't approved for housing over the summer your HUID won't allow you access to dorms/residential housing, same as winter recess.
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+0 roommates
+
+Also remember most students (from what I've seen) don't work in their room. So if in the worst case you don't like your roommates or the room's not as clean as you'd like, you're not gonna be in there all that much.
+
+Don’t be the last one to move out or you’ll get stuck cleaning the place to get the deposit!
+
+Dirty Room Penalty Fee
+
+How much is the dirty room fee? My suite mates just upped and left, leaving the room looking like shit.
+
+Would cleaning it and asking them to pay me be a dick move?
+
+>Would cleaning it and asking them to pay me be a dick move?
+
+Florida
+
+Tozzer library
+
+Hello:) I'm writing the roommate application, and I'm  looking for suggestions as to what I should write about when it comes to what I'm like and what my idea roommate is like. For example I hadn't even considered alcohol until my brother mentioned I should probably include that I don't like heavy drinking , which I can see now is really important. 
+
+Any help would be much appreciated ;)
+
+Are you a morning person or a night owl? Can you fall asleep with lights on?
+
+Do you keep your room messy or neat?
+
+Can you tolerate a roommate who keeps their room messy?
+
+Heavy drinking is really not that important.  You can do just fine at Harvard without it.
+
+people who snore or not
+
+CS61: What is special about this course that makes it use C++ instead of C?
+
+I am asking this question as I had a look around other machine organization / OS-like courses in other unis, and found most of them use pure C, instead of C++.
+
+I am considering taking CS61 next term, and wonder what is special about this course that it uses C++ instead?
+
+&#x200B;
+
+Thanks. So CS61's C++ is basically just C with STL?  
+
+(Sorry I have very low knowledge of C++, and Im considering doing extra preparation for the course over summer, hence the question).
+
+I'm no expert in C/C++ either, but yeah in my experience CS61 uses a C-like programming style with C++ thrown in where convenient. I came in with just CS50's level of C and I had no issues with the programming aspect of it. What makes CS61 difficult are the damn exams!
+
+Took it in the fall. Id say the use of STL allows students to focus more on the actual systems theory rather than the C/C++ programming language
+
+I see. That would explain why there is no C+, but it went straight from C to C++.
+
+ I always thought C++ should really be called C+=1.
+
+Thank you for the great reference. I actually did have a look at this before. I was hoping someone could expand a little bit on the link (especially seeing the link was specific to CS161 not CS61) and clarifies if the course needs C++ because it teaches materials that other similar courses don't, or simply the professor feels the benefit of using C++ outweighs the additional burden to learn it.  (A common reason I hear other OS courses use pure C is that C++ is too complicated and can be distracting from OS concepts. )
+
+The link says that C++ is easier to understand and write as well as close enough to C such that the learning barrier is low if you know C.
+
+Of course, that’s exactly what I’m asking… why does cs61 use c++ but not C, unlike most other OS-related course in other unis?
+
+( translated as, what aspect of C++ is CS61 using?)
+
+one difference would be using stl data structures 
+
+Thx. Will definitely familiarize myself before the start of class (as I am usually slower with new programming languages /methods than other people)
+
+Ugh, thanks for the advice! I already took CS124 so I am familiar with those topics on conceptual level, but I did CS124 in python - need to pick up my C++ skill. I have so far written 0 lines of C++, and last time I briefly touched C was years ago. (I didnt take CS50)
+
+I will be taking the UCLA CS31 introductory C++ course in summer, offered through UCLA extension school (though it is almost exactly the same as on-campus version). I know I can also just learn on coursera, but I have very bad self-discipline and prefer a bit more hand-holding.
+
+ Amongst other things, C is a pure procedural language, C++ is a multi-paradigm language. There are deeper differences than 'c++ is just c but with a stl'..
+
+I'm no expert in C/C++ either, but yeah in my experience CS61 uses a C-like programming style with C++ thrown in where convenient. I came in with just CS50's level of C and I had no issues with the programming aspect of it. What makes CS61 difficult are the damn exams!
+
+Thanks. So CS61's C++ is basically just C with STL?  
+
+(Sorry I have very low knowledge of C++, and Im considering doing extra preparation for the course over summer, hence the question).
+
+I see. That would explain why there is no C+, but it went straight from C to C++.
+
+The link says that C++ is easier to understand and write as well as close enough to C such that the learning barrier is low if you know C.
+
+Thank you for the great reference. I actually did have a look at this before. I was hoping someone could expand a little bit on the link (especially seeing the link was specific to CS161 not CS61) and clarifies if the course needs C++ because it teaches materials that other similar courses don't, or simply the professor feels the benefit of using C++ outweighs the additional burden to learn it.  (A common reason I hear other OS courses use pure C is that C++ is too complicated and can be distracting from OS concepts. )
+
+one difference would be using stl data structures 
+
+Thx. Will definitely familiarize myself before the start of class (as I am usually slower with new programming languages /methods than other people)
+
+Ugh, thanks for the advice! I already took CS124 so I am familiar with those topics on conceptual level, but I did CS124 in python - need to pick up my C++ skill. I have so far written 0 lines of C++, and last time I briefly touched C was years ago. (I didnt take CS50)
+
+I will be taking the UCLA CS31 introductory C++ course in summer, offered through UCLA extension school (though it is almost exactly the same as on-campus version). I know I can also just learn on coursera, but I have very bad self-discipline and prefer a bit more hand-holding.
+
+Of course, that’s exactly what I’m asking… why does cs61 use c++ but not C, unlike most other OS-related course in other unis?
+
+( translated as, what aspect of C++ is CS61 using?)
+
+I'm no expert in C/C++ either, but yeah in my experience CS61 uses a C-like programming style with C++ thrown in where convenient. I came in with just CS50's level of C and I had no issues with the programming aspect of it. What makes CS61 difficult are the damn exams!
+
+The link says that C++ is easier to understand and write as well as close enough to C such that the learning barrier is low if you know C.
+
+Thx. Will definitely familiarize myself before the start of class (as I am usually slower with new programming languages /methods than other people)
+
+Ugh, thanks for the advice! I already took CS124 so I am familiar with those topics on conceptual level, but I did CS124 in python - need to pick up my C++ skill. I have so far written 0 lines of C++, and last time I briefly touched C was years ago. (I didnt take CS50)
+
+I will be taking the UCLA CS31 introductory C++ course in summer, offered through UCLA extension school (though it is almost exactly the same as on-campus version). I know I can also just learn on coursera, but I have very bad self-discipline and prefer a bit more hand-holding.
+
+one difference would be using stl data structures 
+
+Ugh, thanks for the advice! I already took CS124 so I am familiar with those topics on conceptual level, but I did CS124 in python - need to pick up my C++ skill. I have so far written 0 lines of C++, and last time I briefly touched C was years ago. (I didnt take CS50)
+
+I will be taking the UCLA CS31 introductory C++ course in summer, offered through UCLA extension school (though it is almost exactly the same as on-campus version). I know I can also just learn on coursera, but I have very bad self-discipline and prefer a bit more hand-holding.
+
+Thx. Will definitely familiarize myself before the start of class (as I am usually slower with new programming languages /methods than other people)
+
+Ugh, thanks for the advice! I already took CS124 so I am familiar with those topics on conceptual level, but I did CS124 in python - need to pick up my C++ skill. I have so far written 0 lines of C++, and last time I briefly touched C was years ago. (I didnt take CS50)
+
+I will be taking the UCLA CS31 introductory C++ course in summer, offered through UCLA extension school (though it is almost exactly the same as on-campus version). I know I can also just learn on coursera, but I have very bad self-discipline and prefer a bit more hand-holding.
+
+Ugh, thanks for the advice! I already took CS124 so I am familiar with those topics on conceptual level, but I did CS124 in python - need to pick up my C++ skill. I have so far written 0 lines of C++, and last time I briefly touched C was years ago. (I didnt take CS50)
+
+I will be taking the UCLA CS31 introductory C++ course in summer, offered through UCLA extension school (though it is almost exactly the same as on-campus version). I know I can also just learn on coursera, but I have very bad self-discipline and prefer a bit more hand-holding.
+
+How is the LIFE pre-orientation program?
+
+significant drop in academic performance??
+
+a mix of senioritis, my job, and stress from my household have made my drop a little they aren’t objectively bad but they just aren’t what they were when i first sent in my application you know.  i’m expecting to end this year  3 B+, 2 A-, 1 A, and possibly 1B but i was admitted as a straight A student.. in short would they view this as a significant drop in my grades?
+
+thank youuu :)
+
+Your BA will say Harvard and that's all an employer will ask for. I graduated from law school and got a PhD; when I applied for jobs no one asked about my GPA. 40 years on and couldn't even tell you what it was...
+
+bro who hurt you get over yourself and find some bitches 😭😭
+
+you’re talking about finding bitches bro look at what you just posted💀
+
+[deleted]
+
+Why don’t you come on some bitches instead
+
+[deleted]
+
+[removed]
+
+[deleted]
+
+no
+
+thank youuu :)
+
+you’re talking about finding bitches bro look at what you just posted💀
+
+[deleted]
+
+Why don’t you come on some bitches instead
+
+[deleted]
+
+[removed]
+
+bro who hurt you get over yourself and find some bitches 😭😭
+
+you’re talking about finding bitches bro look at what you just posted💀
+
+Why don’t you come on some bitches instead
+
+[deleted]
+
+[removed]
+
+[deleted]
+
+[deleted]
+
+[removed]
+
+Why don’t you come on some bitches instead
+
+[removed]
+
+[deleted]
+
+[removed]
+
+Average broker fee?
+
+I'm starting next fall and I'm trying to get a rough idea of broker fees so I can decide between on campus or off campus housing. Thanks!
+
+1 month's rent is pretty standard. It fucking sucks. Most places you have to pay 3 or 4 months rent just to move in: first month's, last month's, broker's, security deposit.
+
+Broker fee is generally one months rent, sometimes with the added "background check" fee (they'll often have you go use a known service and send the results). With the first/last and deposit it can get pretty brutal for a move-in.
+
+The system is basically designed to extract money from students passing through, push up property values and force undesirables to move to different areas while ironically displaying BLM signs. Be on the lookout for scams, they're rife due to how many are rented sight unseen.
+
+Broker fee is generally one months rent, sometimes with the added "background check" fee (they'll often have you go use a known service and send the results). With the first/last and deposit it can get pretty brutal for a move-in.
+
+The system is basically designed to extract money from students passing through, push up property values and force undesirables to move to different areas while ironically displaying BLM signs. Be on the lookout for scams, they're rife due to how many are rented sight unseen.
+
+Will I get my first-choice pre-orientation program?
+
+I can’t write “what are my chances” bc Reddit thinks I’m asking about admission and blocks my question. I just meant how often do u get your first choice?
+
+I can’t write “what are my chances” bc Reddit thinks I’m asking about admission and blocks my question. I just meant how often do u get your first choice?
+
+Prefrosh here wondering if anyone can share about when and how lacrosse team tryouts are run for walk-ons? I know it’s a total long shot, but I’d like to give it a try.
+
+I will say it’s a huge time commitment and assuming the recruits are better than you you prob won’t get much playing time. But if you really enjoy it then why not try it out (you also get sick lax merch)
+
+personal experiences with pre-orientation programs?
+
+Was wondering if anyone has advice on what the pre-orientation programs are like that maybe isn't too apparent just by their website descriptions? e.g. any personal experiences/things you've heard that you think would be important to know. Thanks :)
+
+What are my chances getting my first-choice pre-orientation program?
+
+Hello, I am a student interning in the area this summer and am looking for a place to stay for 8 weeks from June through the end of July. Please reach out to me if you are subletting your place!
+
+Take a look on the Harvard Housing facebook group. I know TONS of people trying to sublet their rooms for June-July.
+
+Law School Housing (North Hall)
+
+What other CS courses should Sophomore concentrators take in addition to Stat 110 + CS 120 or 121
+
+Title. What other CS courses would you recommend that Sophomores take in the fall that has a manageable workload?
+
+I know a suggestion might be CS 6\`1, but that seems like it would be too much, especially given the already 10+ hour workload with Stat 110 and one of the 120 courses.
+
+For reference, I've already satisfied the linear alg and discrete math req in freshmen year, and taken 50, 51, and 20. 
+
+Bruh, using my own words against me :)).
+
+- don't take too many at the same time unless you have to (which you don't if you already took 50 51 and 20 freshman year)
+
+61 + 120 + 110 = no life <3
+
+Do yourself a favor bc in the end progressing through requirements expediently will it stress you out and not even help with recruiting. Take two reasonable STEM classes then gem the others or take something you like bc you want to be doing things outside of school
+
+If you're looking for a chill one, you can join me in 6.036 next fall! :)
+
+Bruh, using my own words against me :)).
+
+[deleted]
+
+Lol. What is this supposed to mean?
+
+it means you should unironically start touching some grass
+
+Lol. What is this supposed to mean?
+
+it means you should unironically start touching some grass
+
+[deleted]
+
+it means you should unironically start touching some grass
+
+Lol. What is this supposed to mean?
+
+it means you should unironically start touching some grass
+
+Which course should sophomore CS concentrators take: CS120 or CS121?
+
+How's your experience at Columbia?
+
+Came here from the Columbia subreddit. Looks like you guys chat about the same shit we do.
+
+Oh, and take the introductory algorithms class (CS 120). That will better prepare you for a course in data structures.
+
+Take a low-level course in the math department that covers proofs, or take an upper level discrete math course. If you’re really brave, take a course in real analysis - it will put hair on your chest.
+
+I mean CS20 covers proofs and is a discrete math course. How would a math department course benefit me? And anyway, I'm definitely taking 120 or 121 next semester, just seeing if 121 is worth it.
+
+If I practice math over the summer, after having CS20 as some foundation, do you think that will help?
+
+121 is horribly taught. What’s your math background?
+
+Just FYI, Boaz is going to be teaching 121 for the foreseeable future. I believe Adam and Madhu co taught it last semester bc Boaz was on sabbatical although I might be wrong. Haven’t had a class with Boaz tho so idk how good of a lecturer he is
+
+How's your experience at Columbia?
+
+Take a low-level course in the math department that covers proofs, or take an upper level discrete math course. If you’re really brave, take a course in real analysis - it will put hair on your chest.
+
+I mean CS20 covers proofs and is a discrete math course. How would a math department course benefit me? And anyway, I'm definitely taking 120 or 121 next semester, just seeing if 121 is worth it.
+
+If I practice math over the summer, after having CS20 as some foundation, do you think that will help?
+
+Just FYI, Boaz is going to be teaching 121 for the foreseeable future. I believe Adam and Madhu co taught it last semester bc Boaz was on sabbatical although I might be wrong. Haven’t had a class with Boaz tho so idk how good of a lecturer he is
+
+I mean CS20 covers proofs and is a discrete math course. How would a math department course benefit me? And anyway, I'm definitely taking 120 or 121 next semester, just seeing if 121 is worth it.
+
+If I practice math over the summer, after having CS20 as some foundation, do you think that will help?
+
+Take a low-level course in the math department that covers proofs, or take an upper level discrete math course. If you’re really brave, take a course in real analysis - it will put hair on your chest.
+
+If I practice math over the summer, after having CS20 as some foundation, do you think that will help?
+
+I mean CS20 covers proofs and is a discrete math course. How would a math department course benefit me? And anyway, I'm definitely taking 120 or 121 next semester, just seeing if 121 is worth it.
+
+If I practice math over the summer, after having CS20 as some foundation, do you think that will help?
+
+If I practice math over the summer, after having CS20 as some foundation, do you think that will help?
+
+hi! sorry to be a pain :) but perhaps could you share them ?
+
+[deleted]
+
+hi! sorry to be a pain :) but perhaps could you share them ?
+
+I was in the con artists Expos class, and we were assigned two movies: “The Talented Mr. Ripley” and “Hustlers”
+
+I cannot recommend this class enough!!
+
+I took one on criminality and it had 2-3 movies assigned. 
+
+ Like I was in femme fatale and we just watched Election and Ten Things I hate about You and compared them
+
+Bottom line, expos will suck. 
+
+I was in the con artists Expos class, and we were assigned two movies: “The Talented Mr. Ripley” and “Hustlers”
+
+I took one on criminality and it had 2-3 movies assigned. 
+
+ Like I was in femme fatale and we just watched Election and Ten Things I hate about You and compared them
+
+And a language citation merely shows that you took 4 courses beyond intro. That is not proof of proficiency.
+
+roommates
+
+hi im someone who is shy but looks forward to meeting new people. sometimes i value my alone time especially after a long day and worry that i wont get that if i dorm with a lot of people, should i my suite mate number reference to 1-2 or 3-4??
+
+If you have any roommates the odds of you having a private room are zero, at least from my experience.
+
+Def 1-2
+
+[deleted]
+
+I honestly have no idea. I think I put one sentence in the essay.
+
+lyrics to baby shark
+
+[deleted]
+
+I put this, but I got housed with two straight (lovely, non-homophobic, but deeply straight) boys.
+
+Fourth - if you note that you don’t want to have a roommate who’s homophobic, you will almost guaranteed get housed with LGBT people (a handful of my friends did this) 
+
+100% agree. I maxed out the sociability and cleanliness thing and the majority of my roommates almost never leave the common room, and half shower maybe once a week. Only way to guarantee a peace of mind is to have less roommates unfortunately
+
+oh nice thank you! i was actually considering putting 5 roommates, so good to know. what would you say the optimal number is?
+
+0 lmao. But realistically anything in Grays (suites of 4 or 5) or Matthews (suites of 2)
+
+Hey, yeah! I'm a freshman rn and I definitely wish I hadn't put that I wanted 5 roommates. The problem with so many roommates is that if even one refuses to clean up after themselves, the rest of the room also finds it okay to leave trash out / be unsanitary. Also the vast majority of people I know arent close with their freshman year roommates anyway
+
+Hi! How can you answer the form to have as few roommates as possible 🤔 I like the:)
+
+I put this, but I got housed with two straight (lovely, non-homophobic, but deeply straight) boys.
+
+[deleted]
+
+100% agree. I maxed out the sociability and cleanliness thing and the majority of my roommates almost never leave the common room, and half shower maybe once a week. Only way to guarantee a peace of mind is to have less roommates unfortunately
+
+0 lmao. But realistically anything in Grays (suites of 4 or 5) or Matthews (suites of 2)
+
+oh nice thank you! i was actually considering putting 5 roommates, so good to know. what would you say the optimal number is?
+
+Hi! How can you answer the form to have as few roommates as possible 🤔 I like the:)
+
+I put this, but I got housed with two straight (lovely, non-homophobic, but deeply straight) boys.
+
+0 lmao. But realistically anything in Grays (suites of 4 or 5) or Matthews (suites of 2)
+
+You can only sell naming rights once*, so you want to wait until you hit your minimum.
+
+> I feel like this is going to turn into a circus.
+
+# I propose on the safe side, let's change Harvard University to University of Cambridge!
+
+james mickens is that u????
+
+All buildings, offensive or not, should be named with a title of a Black Sabbath song, preceded or followed by some variant of "building":
+
+Women's rights or renaming Mather House, what's it gonna be? This University is all wacky and it seems everything is wrong all the time around here.
+
+[deleted]
+
+[deleted]
+
+Oh man I saw this and was so confused because I hadn’t seen anything besides the email about the big report lately. Had to go all the way back to December for context. 😅
+
+Is the name “Harvard” safe? Asking for a friend.
+
+Honestly naming all buildings after numbers like MIT (so that you could, for instance, make it easier to find buildings by having consistent numbering scheme) would sidestep a lot of issues, other than being just bland.
+
+You can only sell naming rights once*, so you want to wait until you hit your minimum.
+
+james mickens is that u????
+
+[deleted]
+
+Women's rights or renaming Mather House, what's it gonna be? This University is all wacky and it seems everything is wrong all the time around here.
+
+You can only sell naming rights once*, so you want to wait until you hit your minimum.
+
+[deleted]
+
+Also I have a separate, slightly unrelated question still about FOP. What is the hygiene situation like? In other words, what does going to the bathroom look like on a backpacking trip. Peeing on a tree is one thing but the trip is like a week long so eventually... 
+
+is the bathroom situation non existent for the cabin based FOP as well?
+
+So that you are not “blind sighted,” assume the bathroom situation to be non-existent.
+
+is the bathroom situation non existent for the cabin based FOP as well?
+
+Hi! I'm an incoming international grad student in the fall. I wonder if Harvard has music clubs that play rock (something like classic rock).
+
+Does anyone have experience with finding friends at Harvard to form a band? This was a dream that never came true at my undergrad institute, lol.
+
+Rock is dead man
+
+what kind of people are usually in gender inclusive housing? as a queer (but cis) incoming freshman i'm considering opting in to gender inclusive housing, but i'm concerned that in doing so i'll surround myself only with queer people and not step out of my comfort zone. are most of the people in gender inclusive housing queer?
+
+From 2018 fall freshman, it was seen as a preference and not a commitment. I picked it and was definitely not placed in a gender inclusive dorm situation. Others had better experiences. From what I remember in the GroupMe, it was mainly queer folk and those comfortable with gender neutral dorms. Honest advice, your dorm NEEDS to be a comfort zone. My experience was a leap outside my comfort zone in the worst ways, being a token minority forced to continually educate or escalate and try to find another room is one of the worst experiences to have here. I actually regret not demanding my preferences be met more.
+
+Personal experience, my roommate would stay with their friends when my queer friends came over. There is too much that's not discussed here enough.
+
+Why is living with people who make you uncomfortable a good thing?
+
+I remember a rooming group that included a physics nerd and some football jocks. It did not end well.
+
+'26 asking about AP scores
+
+I know that Harvard doesnt give AP credit for any exams but I heard from someone that they still ask for your scores when released. Can anyone confirm this and if they do ask then why??? Would they rescind someone if they failed an AP test??
+
+They do not.
+
+Same answer as above
+
+[deleted]
+
+Same answer as above
+
+End of semester thoughts.
+
+I don't even care anymore. 
+
+I'm gonna finish this semester, graduate, and then live out the rest of my days herding sheep in a foreign country. 
+
+I'll change my legal name to The Soulless One and write eerie but largely inoffensive manifestos in my run-down shack using pens that I borrow from, but never return to, anyone willing to get within asking distance.
+
+I'm gonna create a machine that cleans my legs for me in the shower, and then never release it to the public out of spite. 
+
+I will train an army of sleeper agent crows to mock my enemies from above, at absolutely no benefit to myself. They will lie in wait until I give the command.
+
+absolutely based. I'm actually planning on doing something similar—specifically moving to the Philippines, buying a hog farm, and changing my title to Pork Daddy :\^)
+
+This is what a Harvard education is for 😤
+
+Harvard grad wants to live in a remote shack, spurning modernity and technology, while writing manifestos. So you're from Eliot House?
+
+what are you saying
+
+Why would you need to clean your legs?
+
+When ppl tell you to go touch grass
+
+What did they do to you in there😳
+
+What is Harvard like?  I went to a small public liberal arts college in the PNW.  I always wandered what it would be like to do the complete opposite
+
+what are you saying
+
+what are you saying
+
+what are you saying
+
+I remember being rejected from FOP. I have not heard about any changes to the program size or admission process.
+
+I remember being rejected from FOP. I have not heard about any changes to the program size or admission process.
+
+The university suspended lifetime alumni email addresses for new graduates, which started last May. As a temporary stop-gap measure, they extended the student email addresses for Harvard college and grad schools for 365 days post-graduation. They also formed a 'task force' to investigate the matter and develop a solution. Now that the 365 days is almost up, there seems to be 0 movement and it looks like the 'taskforce' has completely dropped the ball.
+
+It's a real shame since Harvard is now the only Ivy League school that does not provide a lifetime email address for its alumni. Even Yale provides a full Gmail suite for their alumni for crying out loud.
+
+Anybody hear any updates on this or is the University just trying to sweep this issue under the carpet?
+
+With the way they treat students on leaves when it comes to access, is anyone surprised? Harvard hates giving out access and their partners don't want them to either.
+
+Any first-year proctors here or people familiar with the living arrangements of proctors? I am wondering more about what I should expect with respect to living arrangements. How big is the typical proctor room? Do most have their own bathrooms or are they shared/communal. What dorm has the best living situation for proctors?
+
+I have my housing lottery date for May 23rd. 
+
+Could anyone provide me with advice as to whether I am likely to get a place at Harvard at trilogy or if I should start looking for places externally?
+
+A desperate incoming student
+
+Same here😭😭
+
+Lol I got June 2nd 😭
+
+This is great advice! Any tips on where you might find these people? I don’t see any of these people on the off campus Harvard roommate finder site
+
+Same here😭😭
+
+This is great advice! Any tips on where you might find these people? I don’t see any of these people on the off campus Harvard roommate finder site
+
+No one has extra tickets to commencement so STOP ASKING
+
+I just wanna complain about finals, man. And all I get are commencement ticket posts. 😮‍💨
+
+Hey, man, does anyone have extra commencement tickets? Willing to pay or exchange sexual favors for commencement tickets!
+
+Does Harvard Require all Incoming Freshman IB Diploma Candidate Students to submit IB scores???
+
+Recently committed to Harvard! IB tests are upon us and as an IB diploma candidate (in the US), I feel very unprepared. Does anyone know if Harvard requires all freshman to submit IB test scores? If I do poorly, will my acceptance be rescinded?
+
+What ab if you’re American but live abroad?
+
+As a US student, no, it's not required
+
+No, as a US student
+
+What ab if you’re American but live abroad?
+
+Can graduate students take elective classes at other colleges?
+
+Hey everyone! I was wondering if for example a student doing their masters at GSAS can take elective classes at HBS or another college?
+
+Yes, you can register for courses in other Harvard schools and also at MIT, though there may be additional hoops to jump through. Whether or not those courses count for elective credit is a matter for discussion with your own program.
+
+Extension students can take courses at the other schools, just subject to a GPA requirement. Not MIT classes though
+
+That's incorrect. According to their website ([https://extension.harvard.edu/wp-content/uploads/sites/8/2021/03/special-student-procedures.pdf](https://extension.harvard.edu/wp-content/uploads/sites/8/2021/03/special-student-procedures.pdf)), extension students have to apply as special students at Harvard and then if they are admitted, there is a limit of two classes. They can, however, register for Tufts, Brown, and MIT under the program (not sure if those count against the limit).
+
+...Anyway, my point was that normal Harvard students cannot take extension classes for credit toward their degree. Only extension students can, and only toward the extension studies degree. Just so the OP doesn't get confused
+
+Didn’t know MIT was up for grabs though
+
+So extension students are basically fake Harvard students then. They need to get special permission to take actual Harvard classes
+
+That's incorrect. According to their website ([https://extension.harvard.edu/wp-content/uploads/sites/8/2021/03/special-student-procedures.pdf](https://extension.harvard.edu/wp-content/uploads/sites/8/2021/03/special-student-procedures.pdf)), extension students have to apply as special students at Harvard and then if they are admitted, there is a limit of two classes. They can, however, register for Tufts, Brown, and MIT under the program (not sure if those count against the limit).
+
+...Anyway, my point was that normal Harvard students cannot take extension classes for credit toward their degree. Only extension students can, and only toward the extension studies degree. Just so the OP doesn't get confused
+
+Didn’t know MIT was up for grabs though
+
+So extension students are basically fake Harvard students then. They need to get special permission to take actual Harvard classes
+
+Extension students can take courses at the other schools, just subject to a GPA requirement. Not MIT classes though
+
+Didn’t know MIT was up for grabs though
+
+So extension students are basically fake Harvard students then. They need to get special permission to take actual Harvard classes
+
+That's incorrect. According to their website ([https://extension.harvard.edu/wp-content/uploads/sites/8/2021/03/special-student-procedures.pdf](https://extension.harvard.edu/wp-content/uploads/sites/8/2021/03/special-student-procedures.pdf)), extension students have to apply as special students at Harvard and then if they are admitted, there is a limit of two classes. They can, however, register for Tufts, Brown, and MIT under the program (not sure if those count against the limit).
+
+...Anyway, my point was that normal Harvard students cannot take extension classes for credit toward their degree. Only extension students can, and only toward the extension studies degree. Just so the OP doesn't get confused
+
+Didn’t know MIT was up for grabs though
+
+So extension students are basically fake Harvard students then. They need to get special permission to take actual Harvard classes
+
+Why????
+
+Things are falling apart, the bathrooms are gross, the lack of AC is really hard to deal with for the first two months. Of everyone that lives in Gropius, I don’t know a single person that is living here again
+
+Things are falling apart, the bathrooms are gross, the lack of AC is really hard to deal with for the first two months. Of everyone that lives in Gropius, I don’t know a single person that is living here again
+
+Why????
+
+Things are falling apart, the bathrooms are gross, the lack of AC is really hard to deal with for the first two months. Of everyone that lives in Gropius, I don’t know a single person that is living here again
+
+Does Harvard enforce the time and u have to move out no matter what? Can student stay for a couple of more days without getting kick out?
+
+ If HUID won't work, does it mean u will be locked in u building and could not get out? or u could still get out? I know the dining rooms could be all closed
+
+Your HUID will not work to unlock any doors, so yes you would be locked out of your dorm building once you exit.
+
+You won't be locked in 😂 You just won't be able to swipe to enter.
+
+What about the old trick of putting a "SENIOR SUITE" sign on your door?
+
+If you want to get annoyed, think about how most colleges let students stay for the summer if they want.
+
+Your HUID will not work to unlock any doors, so yes you would be locked out of your dorm building once you exit.
+
+You won't be locked in 😂 You just won't be able to swipe to enter.
+
+ If HUID won't work, does it mean u will be locked in u building and could not get out? or u could still get out? I know the dining rooms could be all closed
+
+Your HUID will not work to unlock any doors, so yes you would be locked out of your dorm building once you exit.
+
+You won't be locked in 😂 You just won't be able to swipe to enter.
+
+Hi! I'm an incoming international freshman student and I was wondering if there's another way apart from on-campus jobs to earn some money.
+
+Legally, you can't work off-campus jobs during your first (academic) year on an F-1 visa.
+
+How can I get that job?  :)
+
+My freshman year I worked for HSA dropping off laundry bags. I worked two hours at a time and would make $70 ($35/hr.).
+
+Avoid the rapist at HBS.
+
+Put your name and cell # on local bulletin boards--LAWN MOWING and other outdoor maintenance.   $20 per hour...25% OFF your first job!  (Unless manual labor is beneath you-which means you really don't need the $$)
+
+Easiest job I ever had and one that a lot of international/athlete students did was work at the Murr Center (athletic complex).
+
+I'd make 14 an hour just sitting at the front desk of an almost-always empty gym and I always got a lot of homework done on shift. All I ever had to do was sometimes wipe down equipment and make sure the doors were locked at closing time. Highly recommend.
+
+Unironically trading NFTs.
+
+How can I get that job?  :)
+
